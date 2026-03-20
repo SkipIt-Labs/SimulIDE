@@ -12,3 +12,8 @@ curl -L -o lut_ram.c https://github.com/SkipIt-Labs/SimulIDE/blob/main/lab5.c
 ```bash
 curl -L -o lut_rom.c https://github.com/SkipIt-Labs/SimulIDE/blob/main/lut_rom.c
 ```
+### PSwitch
+
+```bash
+curl -L -o PSwitch.c https://github.com/SkipIt-Labs/SimulIDE/blob/main/PSwitch.c
+```
