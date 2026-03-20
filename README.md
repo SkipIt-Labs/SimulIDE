@@ -5,15 +5,14 @@ curl -L -o 1.simu https://github.com/SkipIt-Labs/SimulIDE/blob/main/zero-one.sim
 # 2
 
 ### lut_ram
-```bash
-curl -L -o lut_ram.c https://github.com/SkipIt-Labs/SimulIDE/blob/main/lab5.c
+```
+curl.exe -L "https://raw.githubusercontent.com/SkipIt-Labs/SimulIDE/main/lab5.c" -o "lut_ram.txt"
 ```
 ### lut_rom
-```bash
-curl -L -o lut_rom.c https://github.com/SkipIt-Labs/SimulIDE/blob/main/lut_rom.c
+```
+curl.exe -L "https://raw.githubusercontent.com/SkipIt-Labs/SimulIDE/main/lut_rom.c" -o "lut_rom.txt"
 ```
 ### PSwitch
-
-```bash
-curl -L -o PSwitch.c https://github.com/SkipIt-Labs/SimulIDE/blob/main/PSwitch.c
+```
+curl.exe -L "https://raw.githubusercontent.com/SkipIt-Labs/SimulIDE/main/PSwitch.c" -o "PSwitch.txt"
 ```
